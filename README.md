@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dumasjr
-- 👀 I’m Analisty Data Science BI
+- 👀 I’m Analisty Security Azure
 - 🌱 I’m Development Python ...
 - 💞️ I’m looking to collaborate on desenvolvimento e aplicação API com Python
 - 📫 How to reach me linkedin/in/alexandre-dumas-junior
